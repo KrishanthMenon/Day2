@@ -1,6 +1,6 @@
 package com.day2;
 
-//CLASS BIKE
+//CLASS -- BIKES
 class Bike
 {
 	private String brand;
